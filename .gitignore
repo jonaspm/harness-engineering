@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# Entornos locales
+.venv/
+__pycache__/
+node_modules/
