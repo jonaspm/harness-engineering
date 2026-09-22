@@ -9,6 +9,7 @@
 - 🎤 **Slides de la charla:** https://opal-coyote-521.faces.site/i7r1qxo3rx10
 - 🧪 **Demo en vivo (código):** https://github.com/jonaspm/harness-engineering-demo
 - ✅ **Checklist de 7 pasos:** [CHECKLIST.md](CHECKLIST.md)
+- 📚 **Guía de despliegue (OpenClaw + Tailscale + memoria + Obsidian):** [GUIA-OPENCLAW.md](GUIA-OPENCLAW.md)
 
 ## El checklist de 7 pasos
 
